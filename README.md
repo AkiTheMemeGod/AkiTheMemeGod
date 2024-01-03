@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding in python
 - 🌱 I’m currently learning cybersecurity
 - 💞️ I’m looking to collaborate on CFTs
-- 📫 How to reach me k.akashkumar@gmail.com
+- 📫 How to reach me akashportfolio.streamlit.app/Contact_me
 
 <!---
 AkiTheMemeGod/AkiTheMemeGod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
