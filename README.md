@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash K</h1>
 <h3 align="center">A passionate developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/dVv.gif](https://i.gifer.com/A3TG.gif">
+<img align="right" alt="fireplace" width="400" src="https://i.gifer.com/A3TG.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akithememegod&label=Profile%20views&color=0e75b6&style=flat" alt="akithememegod" /> </p>
 
