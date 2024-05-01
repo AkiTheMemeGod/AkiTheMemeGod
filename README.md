@@ -20,6 +20,7 @@
 - 📫 How to reach me **k.akashkumar@gmail.com**
 
 - 📄 Know about my experiences [https://akashportfolio.streamlit.app](https://akashportfolio.streamlit.app)
+- <img align="right" alt="Coding" width="400" src="https://i.gifer.com/dVv.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
