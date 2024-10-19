@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/akithememegod1" target="blank"><img src="https://img.shields.io/twitter/follow/akithememegod1?logo=twitter&style=for-the-badge" alt="akithememegod1" /></a> </p>
 
-- 🔭 I’m currently working on [SRMGoodFoods](https://github.com/AkiTheMemeGod/srmfoodsapp)
+- 🔭 I’m currently working on [QuickTalk](https://github.com/AkiTheMemeGod/quicktalk)
 
 - 🌱 I’m currently learning **Streamlit Framework, Flutter**
 
