@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash K</h1>
 <h3 align="center">A passionate developer from India.</h3>
-![fireplace](https://github.com/user-attachments/assets/10e8060c-df25-4295-9188-868722dbb562)
+![fireplace](https://github.com/AkiTheMemeGod/AkiTheMemeGod/blob/main/camping_w_techno__gif__by_wormph_defm8on.gif)
 
 
 
