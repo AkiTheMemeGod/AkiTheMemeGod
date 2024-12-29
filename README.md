@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash K</h1>
-<h3 align="center">A passionate developer from India.</h3>
+<h3 align="center">Flutter Developer & C-EH.</h3>
 <p align="center">
   <img src="https://github.com/AkiTheMemeGod/AkiTheMemeGod/blob/main/camping_w_techno__gif__by_wormph_defm8on.gif" alt="fireplace" />
 </p>
