@@ -17,11 +17,12 @@
 
 - 🤝 I’m looking for help with **CFTs & IEEE Research**
 
-- 👨‍💻 All of my projects are available at [https://akashportfolio.streamlit.app/My_Projects](https://akashportfolio.streamlit.app/My_Projects)
+- 👨‍💻 All of my projects are available at
+[Portfolio Website](https://akithememegod.github.io)
 
 - 📫 How to reach me **k.akashkumar@gmail.com**
 
-- 📄 Know about my experiences [https://akashportfolio.streamlit.app](https://akashportfolio.streamlit.app)
+- 📄 Know about my experiences [Portfolio Website](https://akithememegod.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
