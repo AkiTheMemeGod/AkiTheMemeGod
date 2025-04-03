@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/akithememegod1" target="blank"><img src="https://img.shields.io/twitter/follow/akithememegod1?logo=twitter&style=for-the-badge" alt="akithememegod1" /></a> </p>
 
-- 🔭 I’m currently working on [SRM Attendance Tracker](https://github.com/AkiTheMemeGod/attendanceapiCRUD)
+- 🔭 I’m currently working on [AnarchKey](https://github.com/AkiTheMemeGod/Anarch_Key)
 
-- 🌱 I’m currently learning **Streamlit Framework, Flutter**
+- 🌱 I’m currently learning **RESTful Apis, Flask, FastAPI, PyPi, Flutter, C#**
 
-- 👯 I’m looking to collaborate on **Machine learning for CyberSecurity**
+- 👯 I’m looking to collaborate on **Building APIs and Fullstack Development**
 
 - 🤝 I’m looking for help with **CFTs & IEEE Research**
 
