@@ -140,7 +140,7 @@
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31tiyjb2u4sbssbdz7jpkyljgu2i)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31tiyjb2u4sbssbdz7jpkyljgu2i&width={500})
 
 ###
 
