@@ -142,8 +142,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/AkiTheMemeGod">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=AkiTheMemeGod&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31tiyjb2u4sbssbdz7jpkyljgu2i)  </a>
 </div>
 
 ###
